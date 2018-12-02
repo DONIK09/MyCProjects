@@ -1,0 +1,10 @@
+C:\Users\DONit\source\repos\Haffman\Haffman\bin\Release\Haffman.exe.config
+C:\Users\DONit\source\repos\Haffman\Haffman\bin\Release\Haffman.exe
+C:\Users\DONit\source\repos\Haffman\Haffman\bin\Release\Haffman.pdb
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.csprojAssemblyReference.cache
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.HafForm.resources
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.Properties.Resources.resources
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.csproj.GenerateResource.cache
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.csproj.CoreCompileInputs.cache
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.exe
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Release\Haffman.pdb

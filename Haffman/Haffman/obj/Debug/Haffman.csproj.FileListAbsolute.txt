@@ -1,0 +1,17 @@
+C:\Users\DONit\source\repos\Haffman\Haffman\bin\Debug\Haffman.exe.config
+C:\Users\DONit\source\repos\Haffman\Haffman\bin\Debug\Haffman.exe
+C:\Users\DONit\source\repos\Haffman\Haffman\bin\Debug\Haffman.pdb
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.csprojAssemblyReference.cache
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.HafForm.resources
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.Properties.Resources.resources
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.csproj.GenerateResource.cache
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.csproj.CoreCompileInputs.cache
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.exe
+C:\Users\DONit\source\repos\Haffman\Haffman\obj\Debug\Haffman.pdb
+G:\Haffman\Haffman\bin\Debug\Haffman.exe.config
+G:\Haffman\Haffman\obj\Debug\Haffman.exe
+G:\Haffman\Haffman\obj\Debug\Haffman.pdb
+G:\Haffman\Haffman\obj\Debug\Haffman.csprojResolveAssemblyReference.cache
+G:\Haffman\Haffman\obj\Debug\Haffman.HafForm.resources
+G:\Haffman\Haffman\obj\Debug\Haffman.Properties.Resources.resources
+G:\Haffman\Haffman\obj\Debug\Haffman.csproj.GenerateResource.Cache
