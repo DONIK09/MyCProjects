@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{464AB0A8-FE31-4541-8456-3F3BAA4F6096}</ProjectGuid>
+    <ProjectGuid>{EF9D41E7-5213-4B8E-A345-CC46F309C6E2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>GlobalEvent</RootNamespace>
-    <AssemblyName>GlobalEvent</AssemblyName>
+    <RootNamespace>SpisokInterface</RootNamespace>
+    <AssemblyName>SpisokInterface</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GlobalForm.cs">
+    <Compile Include="Element.cs" />
+    <Compile Include="FormSpisok.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="GlobalForm.Designer.cs">
-      <DependentUpon>GlobalForm.cs</DependentUpon>
+    <Compile Include="FormSpisok.Designer.cs">
+      <DependentUpon>FormSpisok.cs</DependentUpon>
     </Compile>
+    <Compile Include="MyContainer.cs" />
+    <Compile Include="MyNumber.cs" />
+    <Compile Include="MyString.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="GlobalForm.resx">
-      <DependentUpon>GlobalForm.cs</DependentUpon>
+    <EmbeddedResource Include="FormSpisok.resx">
+      <DependentUpon>FormSpisok.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

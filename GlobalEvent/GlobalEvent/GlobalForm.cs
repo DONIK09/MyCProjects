@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GlobalEvent
 {
-    public partial class Form1 : Form
+    public partial class GlobalForm : Form
     {
-        public Form1()
+        public GlobalForm()
         {
             InitializeComponent();
         }

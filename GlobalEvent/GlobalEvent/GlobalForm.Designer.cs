@@ -1,6 +1,6 @@
 ﻿namespace GlobalEvent
 {
-    partial class Form1
+    partial class GlobalForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
