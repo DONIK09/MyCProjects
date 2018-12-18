@@ -46,12 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Counter.cs" />
     <Compile Include="GlobalForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="GlobalForm.Designer.cs">
       <DependentUpon>GlobalForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MyHandler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GlobalForm.resx">
